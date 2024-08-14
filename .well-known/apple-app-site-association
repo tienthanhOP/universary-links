@@ -3,9 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "jp.co.cdjapan.app",
-        "paths": [
-          "/deeplink/*"
+        "appIDs": [
+          "7W946YNV8C.jp.co.neowing.shopping",
+          "7W946YNV8C.jp.co.cdjapan.shopping"
+        ],
+        "components": [
+          {
+            "*": "*"
+          }
         ]
       }
     ]
